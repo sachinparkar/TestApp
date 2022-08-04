@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="text">Bold</string>
+    <string name="submit">Submit</string>
+    <string name="enter_answer_here">Enter Answer here</string>
+    <string name="_2_x_2">2 X 2</string>
+    <string name="solve_the_maths_problem">Solve the maths problem</string>
+</resources>
